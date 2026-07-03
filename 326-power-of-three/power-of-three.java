@@ -3,7 +3,7 @@ class Solution {
         if(n<=0){
             return false;
         }
-        else if(Math.pow(3,19)%n==0){
+        else if(Math.pow(3,30)%n==0){
             return true;
         }
         else{
