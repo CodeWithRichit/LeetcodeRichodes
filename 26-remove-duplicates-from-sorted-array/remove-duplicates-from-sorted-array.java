@@ -24,7 +24,7 @@ class Solution {
                 i=j;
             }
         }
-        nums[pos] = nums[i];
+        nums[pos] = nums[i];//clutch
         return count;
     }
 }
