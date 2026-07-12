@@ -13,12 +13,7 @@ class Solution {
         //     count++;
         //     }
         // }O(n^2)
-        int count=1;
-        for(int i=1;i<nums.length;i++){
-            if(nums[i]!=nums[i-1]){
-                count++;
-            }
-        }//O(n)
+        //O(n)
         int i=0,j=1,pos=0;
         while(j<nums.length){
             if(nums[i]==nums[j]){
@@ -31,6 +26,6 @@ class Solution {
             }
         }
         nums[pos] = nums[i];//clutch
-        return count;
+        return pos+1;
     }
 }
