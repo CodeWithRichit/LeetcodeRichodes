@@ -3,8 +3,8 @@ class Solution {
         int maxd=0,max=Integer.MIN_VALUE;
         for(int i=0;i<nums.length;i++){
            if(nums[i]>max){
-            max=nums[i];
             maxd=i;
+            max=nums[i];
            }
         }
         return maxd;
