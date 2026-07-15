@@ -28,6 +28,7 @@
 - ✅ 283-move-zeroes
 - ✅ 326-power-of-three
 - ✅ 344-reverse-string
+- ✅ 345-reverse-vowels-of-a-string
 - ✅ 35-search-insert-position
 - ✅ 3995-gcd-of-odd-and-even-sums
 - ✅ 4-median-of-two-sorted-arrays
@@ -42,6 +43,6 @@
 
 ---
 
-**Total Problems Solved:** 37
+**Total Problems Solved:** 38
 
-Last Updated: Wed Jul 15 06:57:13 UTC 2026
+Last Updated: Wed Jul 15 14:02:38 UTC 2026
