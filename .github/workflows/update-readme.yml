@@ -1,0 +1,49 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate README
+        run: |
+          echo "# LeetCode Solutions" > README.md
+          echo "" >> README.md
+          echo "## Solved Problems" >> README.md
+          echo "" >> README.md
+
+          count=0
+
+          for dir in */ ; do
+            if [[ "$dir" != ".github/" ]]; then
+              problem=$(basename "$dir")
+              echo "- ✅ $problem" >> README.md
+              count=$((count+1))
+            fi
+          done
+
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "" >> README.md
+          echo "**Total Problems Solved:** $count" >> README.md
+          echo "" >> README.md
+          echo "Last Updated: $(date)" >> README.md
+
+      - name: Commit Changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update README"
+          git push
