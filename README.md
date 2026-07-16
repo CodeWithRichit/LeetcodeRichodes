@@ -20,6 +20,7 @@
 - ✅ 189-rotate-array
 - ✅ 2048-build-array-from-permutation
 - ✅ 2058-concatenation-of-array
+- ✅ 209-minimum-size-subarray-sum
 - ✅ 231-power-of-two
 - ✅ 26-remove-duplicates-from-sorted-array
 - ✅ 263-ugly-number
@@ -43,6 +44,6 @@
 
 ---
 
-**Total Problems Solved:** 38
+**Total Problems Solved:** 39
 
-Last Updated: Wed Jul 15 14:02:38 UTC 2026
+Last Updated: Thu Jul 16 01:17:01 UTC 2026
