@@ -22,6 +22,7 @@
 - ✅ 2058-concatenation-of-array
 - ✅ 209-minimum-size-subarray-sum
 - ✅ 231-power-of-two
+- ✅ 242-valid-anagram
 - ✅ 26-remove-duplicates-from-sorted-array
 - ✅ 263-ugly-number
 - ✅ 268-missing-number
@@ -44,6 +45,6 @@
 
 ---
 
-**Total Problems Solved:** 39
+**Total Problems Solved:** 40
 
-Last Updated: Thu Jul 16 01:17:01 UTC 2026
+Last Updated: Fri Jul 17 06:23:44 UTC 2026
