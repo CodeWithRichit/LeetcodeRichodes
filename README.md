@@ -32,6 +32,7 @@
 - ✅ 344-reverse-string
 - ✅ 345-reverse-vowels-of-a-string
 - ✅ 35-search-insert-position
+- ✅ 387-first-unique-character-in-a-string
 - ✅ 3995-gcd-of-odd-and-even-sums
 - ✅ 4-median-of-two-sorted-arrays
 - ✅ 58-length-of-last-word
@@ -45,6 +46,6 @@
 
 ---
 
-**Total Problems Solved:** 40
+**Total Problems Solved:** 41
 
-Last Updated: Fri Jul 17 06:23:44 UTC 2026
+Last Updated: Fri Jul 17 14:22:08 UTC 2026
