@@ -8,6 +8,7 @@
 - ✅ 11-container-with-most-water
 - ✅ 121-best-time-to-buy-and-sell-stock
 - ✅ 125-valid-palindrome
+- ✅ 14-longest-common-prefix
 - ✅ 1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold
 - ✅ 15-3sum
 - ✅ 1528-kids-with-the-greatest-number-of-candies
@@ -47,6 +48,6 @@
 
 ---
 
-**Total Problems Solved:** 42
+**Total Problems Solved:** 43
 
-Last Updated: Sat Jul 18 01:58:06 UTC 2026
+Last Updated: Sat Jul 18 02:49:06 UTC 2026
