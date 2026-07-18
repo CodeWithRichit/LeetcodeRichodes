@@ -22,6 +22,7 @@
 - ✅ 2048-build-array-from-permutation
 - ✅ 2058-concatenation-of-array
 - ✅ 209-minimum-size-subarray-sum
+- ✅ 2106-find-greatest-common-divisor-of-array
 - ✅ 231-power-of-two
 - ✅ 242-valid-anagram
 - ✅ 26-remove-duplicates-from-sorted-array
@@ -48,6 +49,6 @@
 
 ---
 
-**Total Problems Solved:** 43
+**Total Problems Solved:** 44
 
-Last Updated: Sat Jul 18 02:49:06 UTC 2026
+Last Updated: Sat Jul 18 03:30:54 UTC 2026
