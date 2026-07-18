@@ -27,6 +27,7 @@
 - ✅ 263-ugly-number
 - ✅ 268-missing-number
 - ✅ 27-remove-element
+- ✅ 28-find-the-index-of-the-first-occurrence-in-a-string
 - ✅ 283-move-zeroes
 - ✅ 326-power-of-three
 - ✅ 344-reverse-string
@@ -46,6 +47,6 @@
 
 ---
 
-**Total Problems Solved:** 41
+**Total Problems Solved:** 42
 
-Last Updated: Fri Jul 17 14:22:08 UTC 2026
+Last Updated: Sat Jul 18 01:58:06 UTC 2026
