@@ -17,6 +17,7 @@
 - ✅ 1603-running-sum-of-1d-array
 - ✅ 162-find-peak-element
 - ✅ 167-two-sum-ii-input-array-is-sorted
+- ✅ 171-excel-sheet-column-number
 - ✅ 18-4sum
 - ✅ 189-rotate-array
 - ✅ 2048-build-array-from-permutation
@@ -49,6 +50,6 @@
 
 ---
 
-**Total Problems Solved:** 44
+**Total Problems Solved:** 45
 
-Last Updated: Sat Jul 18 03:30:54 UTC 2026
+Last Updated: Sun Jul 19 07:04:43 UTC 2026
