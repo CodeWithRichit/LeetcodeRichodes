@@ -27,6 +27,7 @@
 - ✅ 2106-find-greatest-common-divisor-of-array
 - ✅ 231-power-of-two
 - ✅ 242-valid-anagram
+- ✅ 2552-maximum-sum-of-distinct-subarrays-with-length-k
 - ✅ 26-remove-duplicates-from-sorted-array
 - ✅ 263-ugly-number
 - ✅ 268-missing-number
@@ -51,6 +52,6 @@
 
 ---
 
-**Total Problems Solved:** 46
+**Total Problems Solved:** 47
 
-Last Updated: Wed Jul 22 23:22:15 UTC 2026
+Last Updated: Sun Jul 26 23:02:38 UTC 2026
