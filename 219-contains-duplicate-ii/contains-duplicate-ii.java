@@ -11,12 +11,12 @@ class Solution {
                 map.put(nums[i],f+1);
             }
             if(map.get(nums[i])>1){
-                freq++;
+                return true;
             }
         }
-        if(freq>=1){
-            return true;
-        }
+        // if(freq>=1){
+        //     return true;
+        // }
         for(int i=k+1;i<nums.length;i++){
             map.put(nums[i-k-1],map.get(nums[i-k-1])-1);
             if(map.get(nums[i-k-1])==0){
