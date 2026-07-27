@@ -26,6 +26,7 @@
 - ✅ 2058-concatenation-of-array
 - ✅ 209-minimum-size-subarray-sum
 - ✅ 2106-find-greatest-common-divisor-of-array
+- ✅ 219-contains-duplicate-ii
 - ✅ 231-power-of-two
 - ✅ 242-valid-anagram
 - ✅ 2552-maximum-sum-of-distinct-subarrays-with-length-k
@@ -54,6 +55,6 @@
 
 ---
 
-**Total Problems Solved:** 49
+**Total Problems Solved:** 50
 
-Last Updated: Mon Jul 27 05:15:57 UTC 2026
+Last Updated: Mon Jul 27 22:33:32 UTC 2026
