@@ -36,6 +36,7 @@
 - ✅ 28-find-the-index-of-the-first-occurrence-in-a-string
 - ✅ 283-move-zeroes
 - ✅ 326-power-of-three
+- ✅ 34-find-first-and-last-position-of-element-in-sorted-array
 - ✅ 344-reverse-string
 - ✅ 345-reverse-vowels-of-a-string
 - ✅ 35-search-insert-position
@@ -53,6 +54,6 @@
 
 ---
 
-**Total Problems Solved:** 48
+**Total Problems Solved:** 49
 
-Last Updated: Mon Jul 27 04:16:34 UTC 2026
+Last Updated: Mon Jul 27 05:15:57 UTC 2026
