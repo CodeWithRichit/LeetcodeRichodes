@@ -36,6 +36,7 @@
 - ✅ 27-remove-element
 - ✅ 28-find-the-index-of-the-first-occurrence-in-a-string
 - ✅ 283-move-zeroes
+- ✅ 3-longest-substring-without-repeating-characters
 - ✅ 326-power-of-three
 - ✅ 34-find-first-and-last-position-of-element-in-sorted-array
 - ✅ 344-reverse-string
@@ -55,6 +56,6 @@
 
 ---
 
-**Total Problems Solved:** 50
+**Total Problems Solved:** 51
 
-Last Updated: Mon Jul 27 23:10:34 UTC 2026
+Last Updated: Tue Jul 28 23:29:46 UTC 2026
