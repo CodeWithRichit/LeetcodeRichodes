@@ -21,6 +21,7 @@
 - ✅ 167-two-sum-ii-input-array-is-sorted
 - ✅ 171-excel-sheet-column-number
 - ✅ 18-4sum
+- ✅ 187-repeated-dna-sequences
 - ✅ 189-rotate-array
 - ✅ 2048-build-array-from-permutation
 - ✅ 2058-concatenation-of-array
@@ -56,6 +57,6 @@
 
 ---
 
-**Total Problems Solved:** 51
+**Total Problems Solved:** 52
 
-Last Updated: Tue Jul 28 23:29:46 UTC 2026
+Last Updated: Wed Jul 29 00:28:30 UTC 2026
