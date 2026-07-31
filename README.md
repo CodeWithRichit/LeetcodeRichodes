@@ -23,6 +23,7 @@
 - ✅ 18-4sum
 - ✅ 187-repeated-dna-sequences
 - ✅ 189-rotate-array
+- ✅ 1966-frequency-of-the-most-frequent-element
 - ✅ 2048-build-array-from-permutation
 - ✅ 2058-concatenation-of-array
 - ✅ 209-minimum-size-subarray-sum
@@ -58,6 +59,6 @@
 
 ---
 
-**Total Problems Solved:** 53
+**Total Problems Solved:** 54
 
-Last Updated: Thu Jul 30 10:00:52 UTC 2026
+Last Updated: Fri Jul 31 00:13:45 UTC 2026
