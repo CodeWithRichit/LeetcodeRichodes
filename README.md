@@ -50,6 +50,7 @@
 - ✅ 58-length-of-last-word
 - ✅ 605-can-place-flowers
 - ✅ 643-maximum-average-subarray-i
+- ✅ 713-subarray-product-less-than-k
 - ✅ 724-find-pivot-index
 - ✅ 75-sort-colors
 - ✅ 792-binary-search
@@ -59,6 +60,6 @@
 
 ---
 
-**Total Problems Solved:** 54
+**Total Problems Solved:** 55
 
-Last Updated: Fri Jul 31 00:13:45 UTC 2026
+Last Updated: Mon Aug  3 15:25:40 UTC 2026
