@@ -47,6 +47,7 @@
 - ✅ 387-first-unique-character-in-a-string
 - ✅ 3995-gcd-of-odd-and-even-sums
 - ✅ 4-median-of-two-sorted-arrays
+- ✅ 424-longest-repeating-character-replacement
 - ✅ 58-length-of-last-word
 - ✅ 605-can-place-flowers
 - ✅ 643-maximum-average-subarray-i
@@ -60,6 +61,6 @@
 
 ---
 
-**Total Problems Solved:** 55
+**Total Problems Solved:** 56
 
-Last Updated: Mon Aug  3 15:25:40 UTC 2026
+Last Updated: Mon Aug  3 16:03:10 UTC 2026
