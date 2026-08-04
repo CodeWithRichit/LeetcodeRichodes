@@ -19,6 +19,7 @@
 - ✅ 1603-running-sum-of-1d-array
 - ✅ 162-find-peak-element
 - ✅ 167-two-sum-ii-input-array-is-sorted
+- ✅ 1677-matrix-diagonal-sum
 - ✅ 171-excel-sheet-column-number
 - ✅ 18-4sum
 - ✅ 187-repeated-dna-sequences
@@ -63,6 +64,6 @@
 
 ---
 
-**Total Problems Solved:** 58
+**Total Problems Solved:** 59
 
-Last Updated: Tue Aug  4 08:54:41 UTC 2026
+Last Updated: Tue Aug  4 10:17:41 UTC 2026
