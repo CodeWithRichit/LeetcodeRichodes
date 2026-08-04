@@ -39,6 +39,7 @@
 - ✅ 28-find-the-index-of-the-first-occurrence-in-a-string
 - ✅ 283-move-zeroes
 - ✅ 3-longest-substring-without-repeating-characters
+- ✅ 3242-count-elements-with-maximum-frequency
 - ✅ 326-power-of-three
 - ✅ 34-find-first-and-last-position-of-element-in-sorted-array
 - ✅ 344-reverse-string
@@ -62,6 +63,6 @@
 
 ---
 
-**Total Problems Solved:** 57
+**Total Problems Solved:** 58
 
-Last Updated: Tue Aug  4 06:08:10 UTC 2026
+Last Updated: Tue Aug  4 08:54:41 UTC 2026
