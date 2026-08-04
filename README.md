@@ -47,6 +47,7 @@
 - ✅ 387-first-unique-character-in-a-string
 - ✅ 3995-gcd-of-odd-and-even-sums
 - ✅ 4-median-of-two-sorted-arrays
+- ✅ 4107-find-missing-elements
 - ✅ 424-longest-repeating-character-replacement
 - ✅ 58-length-of-last-word
 - ✅ 605-can-place-flowers
@@ -61,6 +62,6 @@
 
 ---
 
-**Total Problems Solved:** 56
+**Total Problems Solved:** 57
 
-Last Updated: Tue Aug  4 00:07:15 UTC 2026
+Last Updated: Tue Aug  4 05:24:01 UTC 2026
