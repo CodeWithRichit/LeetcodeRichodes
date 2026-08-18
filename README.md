@@ -20,6 +20,7 @@
 - ✅ 162-find-peak-element
 - ✅ 167-two-sum-ii-input-array-is-sorted
 - ✅ 1677-matrix-diagonal-sum
+- ✅ 169-majority-element
 - ✅ 171-excel-sheet-column-number
 - ✅ 18-4sum
 - ✅ 187-repeated-dna-sequences
@@ -66,6 +67,6 @@
 
 ---
 
-**Total Problems Solved:** 61
+**Total Problems Solved:** 62
 
-Last Updated: Tue Aug 18 09:00:25 UTC 2026
+Last Updated: Tue Aug 18 09:38:52 UTC 2026
