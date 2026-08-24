@@ -25,6 +25,7 @@
 - ✅ 18-4sum
 - ✅ 187-repeated-dna-sequences
 - ✅ 189-rotate-array
+- ✅ 19-remove-nth-node-from-end-of-list
 - ✅ 1966-frequency-of-the-most-frequent-element
 - ✅ 2048-build-array-from-permutation
 - ✅ 2058-concatenation-of-array
@@ -68,6 +69,6 @@
 
 ---
 
-**Total Problems Solved:** 63
+**Total Problems Solved:** 64
 
-Last Updated: Sun Aug 23 10:31:43 UTC 2026
+Last Updated: Mon Aug 24 06:31:39 UTC 2026
