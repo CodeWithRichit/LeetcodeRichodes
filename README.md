@@ -65,11 +65,12 @@
 - ✅ 75-sort-colors
 - ✅ 792-binary-search
 - ✅ 80-remove-duplicates-from-sorted-array-ii
+- ✅ 82-remove-duplicates-from-sorted-list-ii
 - ✅ 88-merge-sorted-array
 - ✅ 940-fruit-into-baskets
 
 ---
 
-**Total Problems Solved:** 65
+**Total Problems Solved:** 66
 
-Last Updated: Mon Aug 24 09:24:11 UTC 2026
+Last Updated: Tue Aug 25 05:27:23 UTC 2026
