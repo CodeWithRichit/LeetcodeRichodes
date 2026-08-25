@@ -53,6 +53,7 @@
 - ✅ 387-first-unique-character-in-a-string
 - ✅ 3995-gcd-of-odd-and-even-sums
 - ✅ 4-median-of-two-sorted-arrays
+- ✅ 4080-smallest-missing-multiple-of-k
 - ✅ 41-first-missing-positive
 - ✅ 4107-find-missing-elements
 - ✅ 424-longest-repeating-character-replacement
@@ -71,6 +72,6 @@
 
 ---
 
-**Total Problems Solved:** 66
+**Total Problems Solved:** 67
 
-Last Updated: Tue Aug 25 05:27:23 UTC 2026
+Last Updated: Tue Aug 25 07:24:14 UTC 2026
