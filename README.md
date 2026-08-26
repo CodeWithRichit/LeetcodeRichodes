@@ -30,6 +30,7 @@
 - ✅ 2048-build-array-from-permutation
 - ✅ 2058-concatenation-of-array
 - ✅ 209-minimum-size-subarray-sum
+- ✅ 21-merge-two-sorted-lists
 - ✅ 2106-find-greatest-common-divisor-of-array
 - ✅ 219-contains-duplicate-ii
 - ✅ 231-power-of-two
@@ -72,6 +73,6 @@
 
 ---
 
-**Total Problems Solved:** 67
+**Total Problems Solved:** 68
 
-Last Updated: Tue Aug 25 07:24:14 UTC 2026
+Last Updated: Wed Aug 26 00:49:57 UTC 2026
