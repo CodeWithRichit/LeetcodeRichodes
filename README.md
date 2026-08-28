@@ -46,6 +46,7 @@
 - ✅ 3-longest-substring-without-repeating-characters
 - ✅ 3242-count-elements-with-maximum-frequency
 - ✅ 326-power-of-three
+- ✅ 328-odd-even-linked-list
 - ✅ 34-find-first-and-last-position-of-element-in-sorted-array
 - ✅ 344-reverse-string
 - ✅ 345-reverse-vowels-of-a-string
@@ -74,6 +75,6 @@
 
 ---
 
-**Total Problems Solved:** 69
+**Total Problems Solved:** 70
 
-Last Updated: Fri Aug 28 10:30:50 UTC 2026
+Last Updated: Fri Aug 28 11:00:53 UTC 2026
