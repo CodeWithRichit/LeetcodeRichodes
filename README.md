@@ -29,6 +29,7 @@
 - ✅ 1966-frequency-of-the-most-frequent-element
 - ✅ 2048-build-array-from-permutation
 - ✅ 2058-concatenation-of-array
+- ✅ 206-reverse-linked-list
 - ✅ 209-minimum-size-subarray-sum
 - ✅ 21-merge-two-sorted-lists
 - ✅ 2106-find-greatest-common-divisor-of-array
@@ -75,6 +76,6 @@
 
 ---
 
-**Total Problems Solved:** 70
+**Total Problems Solved:** 71
 
-Last Updated: Fri Aug 28 11:00:53 UTC 2026
+Last Updated: Fri Aug 28 14:39:00 UTC 2026
