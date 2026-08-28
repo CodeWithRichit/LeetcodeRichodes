@@ -31,8 +31,9 @@ class Solution {
         ListNode j=p;
         int ms=Integer.MIN_VALUE;
         while(i!=null){
-            if(i.val+j.val>=ms){
-                ms=i.val+j.val;
+            int s=i.val+j.val;
+            if(s>=ms){
+                ms=s;
             }
             i=i.next;
             j=j.next;
