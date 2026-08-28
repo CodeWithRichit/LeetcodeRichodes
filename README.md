@@ -68,11 +68,12 @@
 - ✅ 792-binary-search
 - ✅ 80-remove-duplicates-from-sorted-array-ii
 - ✅ 82-remove-duplicates-from-sorted-list-ii
+- ✅ 86-partition-list
 - ✅ 88-merge-sorted-array
 - ✅ 940-fruit-into-baskets
 
 ---
 
-**Total Problems Solved:** 68
+**Total Problems Solved:** 69
 
-Last Updated: Wed Aug 26 00:49:57 UTC 2026
+Last Updated: Fri Aug 28 10:30:50 UTC 2026
