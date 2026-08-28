@@ -35,6 +35,7 @@
 - ✅ 2106-find-greatest-common-divisor-of-array
 - ✅ 219-contains-duplicate-ii
 - ✅ 231-power-of-two
+- ✅ 234-palindrome-linked-list
 - ✅ 237-delete-node-in-a-linked-list
 - ✅ 242-valid-anagram
 - ✅ 2552-maximum-sum-of-distinct-subarrays-with-length-k
@@ -76,6 +77,6 @@
 
 ---
 
-**Total Problems Solved:** 71
+**Total Problems Solved:** 72
 
-Last Updated: Fri Aug 28 14:39:00 UTC 2026
+Last Updated: Fri Aug 28 15:02:48 UTC 2026
