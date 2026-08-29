@@ -34,6 +34,7 @@
 - ✅ 21-merge-two-sorted-lists
 - ✅ 2106-find-greatest-common-divisor-of-array
 - ✅ 219-contains-duplicate-ii
+- ✅ 2216-delete-the-middle-node-of-a-linked-list
 - ✅ 2236-maximum-twin-sum-of-a-linked-list
 - ✅ 231-power-of-two
 - ✅ 234-palindrome-linked-list
@@ -79,6 +80,6 @@
 
 ---
 
-**Total Problems Solved:** 74
+**Total Problems Solved:** 75
 
-Last Updated: Sat Aug 29 03:08:20 UTC 2026
+Last Updated: Sat Aug 29 04:56:56 UTC 2026
