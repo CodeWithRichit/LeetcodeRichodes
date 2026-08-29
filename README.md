@@ -74,12 +74,13 @@
 - ✅ 792-binary-search
 - ✅ 80-remove-duplicates-from-sorted-array-ii
 - ✅ 82-remove-duplicates-from-sorted-list-ii
+- ✅ 83-remove-duplicates-from-sorted-list
 - ✅ 86-partition-list
 - ✅ 88-merge-sorted-array
 - ✅ 940-fruit-into-baskets
 
 ---
 
-**Total Problems Solved:** 75
+**Total Problems Solved:** 76
 
-Last Updated: Sat Aug 29 04:56:56 UTC 2026
+Last Updated: Sat Aug 29 09:50:47 UTC 2026
