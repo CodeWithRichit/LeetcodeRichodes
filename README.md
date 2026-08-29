@@ -10,6 +10,7 @@
 - ✅ 125-valid-palindrome
 - ✅ 136-single-number
 - ✅ 14-longest-common-prefix
+- ✅ 143-reorder-list
 - ✅ 1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold
 - ✅ 15-3sum
 - ✅ 1528-kids-with-the-greatest-number-of-candies
@@ -81,6 +82,6 @@
 
 ---
 
-**Total Problems Solved:** 76
+**Total Problems Solved:** 77
 
-Last Updated: Sat Aug 29 09:50:47 UTC 2026
+Last Updated: Sat Aug 29 10:24:50 UTC 2026
