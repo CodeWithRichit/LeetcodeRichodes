@@ -38,6 +38,7 @@
 - ✅ 231-power-of-two
 - ✅ 234-palindrome-linked-list
 - ✅ 237-delete-node-in-a-linked-list
+- ✅ 24-swap-nodes-in-pairs
 - ✅ 242-valid-anagram
 - ✅ 2552-maximum-sum-of-distinct-subarrays-with-length-k
 - ✅ 26-remove-duplicates-from-sorted-array
@@ -78,6 +79,6 @@
 
 ---
 
-**Total Problems Solved:** 73
+**Total Problems Solved:** 74
 
-Last Updated: Fri Aug 28 17:07:50 UTC 2026
+Last Updated: Sat Aug 29 03:08:20 UTC 2026
