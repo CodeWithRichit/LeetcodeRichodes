@@ -78,10 +78,11 @@
 - ✅ 83-remove-duplicates-from-sorted-list
 - ✅ 86-partition-list
 - ✅ 88-merge-sorted-array
+- ✅ 92-reverse-linked-list-ii
 - ✅ 940-fruit-into-baskets
 
 ---
 
-**Total Problems Solved:** 77
+**Total Problems Solved:** 78
 
-Last Updated: Sat Aug 29 10:24:50 UTC 2026
+Last Updated: Sat Aug 29 11:17:03 UTC 2026
