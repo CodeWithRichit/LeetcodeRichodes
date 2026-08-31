@@ -30,6 +30,7 @@
 - ✅ 1966-frequency-of-the-most-frequent-element
 - ✅ 202-happy-number
 - ✅ 2048-build-array-from-permutation
+- ✅ 2053-check-if-all-characters-have-equal-number-of-occurrences
 - ✅ 2058-concatenation-of-array
 - ✅ 206-reverse-linked-list
 - ✅ 209-minimum-size-subarray-sum
@@ -86,6 +87,6 @@
 
 ---
 
-**Total Problems Solved:** 81
+**Total Problems Solved:** 82
 
-Last Updated: Mon Aug 31 09:59:37 UTC 2026
+Last Updated: Mon Aug 31 10:15:25 UTC 2026
