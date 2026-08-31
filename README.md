@@ -66,6 +66,7 @@
 - ✅ 41-first-missing-positive
 - ✅ 4107-find-missing-elements
 - ✅ 424-longest-repeating-character-replacement
+- ✅ 50-powx-n
 - ✅ 528-swapping-nodes-in-a-linked-list
 - ✅ 58-length-of-last-word
 - ✅ 605-can-place-flowers
@@ -84,6 +85,6 @@
 
 ---
 
-**Total Problems Solved:** 79
+**Total Problems Solved:** 80
 
-Last Updated: Mon Aug 31 09:19:48 UTC 2026
+Last Updated: Mon Aug 31 09:40:56 UTC 2026
