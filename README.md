@@ -37,6 +37,7 @@
 - ✅ 21-merge-two-sorted-lists
 - ✅ 2106-find-greatest-common-divisor-of-array
 - ✅ 217-contains-duplicate
+- ✅ 2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points
 - ✅ 219-contains-duplicate-ii
 - ✅ 2216-delete-the-middle-node-of-a-linked-list
 - ✅ 2236-maximum-twin-sum-of-a-linked-list
@@ -87,6 +88,6 @@
 
 ---
 
-**Total Problems Solved:** 82
+**Total Problems Solved:** 83
 
-Last Updated: Mon Aug 31 10:15:25 UTC 2026
+Last Updated: Mon Aug 31 14:24:48 UTC 2026
