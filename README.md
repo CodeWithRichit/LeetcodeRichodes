@@ -84,11 +84,12 @@
 - ✅ 83-remove-duplicates-from-sorted-list
 - ✅ 86-partition-list
 - ✅ 88-merge-sorted-array
+- ✅ 898-transpose-matrix
 - ✅ 92-reverse-linked-list-ii
 - ✅ 940-fruit-into-baskets
 
 ---
 
-**Total Problems Solved:** 84
+**Total Problems Solved:** 85
 
-Last Updated: Mon Aug 31 15:02:29 UTC 2026
+Last Updated: Mon Aug 31 15:30:29 UTC 2026
