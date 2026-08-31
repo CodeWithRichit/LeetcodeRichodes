@@ -35,6 +35,7 @@
 - ✅ 209-minimum-size-subarray-sum
 - ✅ 21-merge-two-sorted-lists
 - ✅ 2106-find-greatest-common-divisor-of-array
+- ✅ 217-contains-duplicate
 - ✅ 219-contains-duplicate-ii
 - ✅ 2216-delete-the-middle-node-of-a-linked-list
 - ✅ 2236-maximum-twin-sum-of-a-linked-list
@@ -85,6 +86,6 @@
 
 ---
 
-**Total Problems Solved:** 80
+**Total Problems Solved:** 81
 
-Last Updated: Mon Aug 31 09:40:56 UTC 2026
+Last Updated: Mon Aug 31 09:59:37 UTC 2026
