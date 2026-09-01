@@ -43,6 +43,7 @@
 - ✅ 219-contains-duplicate-ii
 - ✅ 2216-delete-the-middle-node-of-a-linked-list
 - ✅ 2236-maximum-twin-sum-of-a-linked-list
+- ✅ 2299-merge-nodes-in-between-zeros
 - ✅ 231-power-of-two
 - ✅ 234-palindrome-linked-list
 - ✅ 237-delete-node-in-a-linked-list
@@ -93,6 +94,6 @@
 
 ---
 
-**Total Problems Solved:** 88
+**Total Problems Solved:** 89
 
-Last Updated: Tue Sep  1 08:38:09 UTC 2026
+Last Updated: Tue Sep  1 09:37:30 UTC 2026
