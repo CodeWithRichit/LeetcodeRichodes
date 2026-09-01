@@ -10,6 +10,7 @@
 - ✅ 125-valid-palindrome
 - ✅ 136-single-number
 - ✅ 14-longest-common-prefix
+- ✅ 141-linked-list-cycle
 - ✅ 143-reorder-list
 - ✅ 1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold
 - ✅ 15-3sum
@@ -95,6 +96,6 @@
 
 ---
 
-**Total Problems Solved:** 90
+**Total Problems Solved:** 91
 
-Last Updated: Tue Sep  1 23:20:33 UTC 2026
+Last Updated: Tue Sep  1 23:31:44 UTC 2026
