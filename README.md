@@ -46,6 +46,7 @@
 - ✅ 237-delete-node-in-a-linked-list
 - ✅ 24-swap-nodes-in-pairs
 - ✅ 242-valid-anagram
+- ✅ 2427-first-letter-to-appear-twice
 - ✅ 2552-maximum-sum-of-distinct-subarrays-with-length-k
 - ✅ 26-remove-duplicates-from-sorted-array
 - ✅ 263-ugly-number
@@ -90,6 +91,6 @@
 
 ---
 
-**Total Problems Solved:** 85
+**Total Problems Solved:** 86
 
-Last Updated: Tue Sep  1 04:38:13 UTC 2026
+Last Updated: Tue Sep  1 05:07:27 UTC 2026
