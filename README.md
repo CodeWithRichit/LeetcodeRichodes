@@ -23,6 +23,7 @@
 - ✅ 1677-matrix-diagonal-sum
 - ✅ 169-majority-element
 - ✅ 171-excel-sheet-column-number
+- ✅ 1765-merge-in-between-linked-lists
 - ✅ 18-4sum
 - ✅ 187-repeated-dna-sequences
 - ✅ 189-rotate-array
@@ -92,6 +93,6 @@
 
 ---
 
-**Total Problems Solved:** 87
+**Total Problems Solved:** 88
 
-Last Updated: Tue Sep  1 06:30:35 UTC 2026
+Last Updated: Tue Sep  1 08:38:09 UTC 2026
