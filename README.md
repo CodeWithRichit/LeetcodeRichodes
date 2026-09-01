@@ -29,6 +29,7 @@
 - ✅ 19-remove-nth-node-from-end-of-list
 - ✅ 1966-frequency-of-the-most-frequent-element
 - ✅ 202-happy-number
+- ✅ 203-remove-linked-list-elements
 - ✅ 2048-build-array-from-permutation
 - ✅ 2053-check-if-all-characters-have-equal-number-of-occurrences
 - ✅ 2058-concatenation-of-array
@@ -91,6 +92,6 @@
 
 ---
 
-**Total Problems Solved:** 86
+**Total Problems Solved:** 87
 
-Last Updated: Tue Sep  1 05:07:27 UTC 2026
+Last Updated: Tue Sep  1 06:30:35 UTC 2026
