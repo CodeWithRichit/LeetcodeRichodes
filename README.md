@@ -18,6 +18,7 @@
 - ✅ 1574-maximum-product-of-two-elements-in-an-array
 - ✅ 1580-shuffle-the-array
 - ✅ 16-3sum-closest
+- ✅ 160-intersection-of-two-linked-lists
 - ✅ 1603-running-sum-of-1d-array
 - ✅ 162-find-peak-element
 - ✅ 167-two-sum-ii-input-array-is-sorted
@@ -96,6 +97,6 @@
 
 ---
 
-**Total Problems Solved:** 91
+**Total Problems Solved:** 92
 
-Last Updated: Tue Sep  1 23:31:44 UTC 2026
+Last Updated: Wed Sep  2 00:09:15 UTC 2026
