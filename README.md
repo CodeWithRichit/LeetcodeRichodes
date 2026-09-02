@@ -31,6 +31,7 @@
 - ✅ 189-rotate-array
 - ✅ 19-remove-nth-node-from-end-of-list
 - ✅ 1966-frequency-of-the-most-frequent-element
+- ✅ 2-add-two-numbers
 - ✅ 202-happy-number
 - ✅ 203-remove-linked-list-elements
 - ✅ 2048-build-array-from-permutation
@@ -98,6 +99,6 @@
 
 ---
 
-**Total Problems Solved:** 93
+**Total Problems Solved:** 94
 
-Last Updated: Wed Sep  2 16:09:23 UTC 2026
+Last Updated: Wed Sep  2 16:24:21 UTC 2026
