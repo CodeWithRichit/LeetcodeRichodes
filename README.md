@@ -75,6 +75,7 @@
 - ✅ 41-first-missing-positive
 - ✅ 4107-find-missing-elements
 - ✅ 424-longest-repeating-character-replacement
+- ✅ 445-add-two-numbers-ii
 - ✅ 50-powx-n
 - ✅ 528-swapping-nodes-in-a-linked-list
 - ✅ 54-spiral-matrix
@@ -97,6 +98,6 @@
 
 ---
 
-**Total Problems Solved:** 92
+**Total Problems Solved:** 93
 
-Last Updated: Wed Sep  2 00:09:15 UTC 2026
+Last Updated: Wed Sep  2 16:09:23 UTC 2026
