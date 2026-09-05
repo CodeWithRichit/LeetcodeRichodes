@@ -86,6 +86,7 @@
 - ✅ 713-subarray-product-less-than-k
 - ✅ 724-find-pivot-index
 - ✅ 75-sort-colors
+- ✅ 766-flatten-a-multilevel-doubly-linked-list
 - ✅ 792-binary-search
 - ✅ 80-remove-duplicates-from-sorted-array-ii
 - ✅ 82-remove-duplicates-from-sorted-list-ii
@@ -99,6 +100,6 @@
 
 ---
 
-**Total Problems Solved:** 94
+**Total Problems Solved:** 95
 
-Last Updated: Wed Sep  2 16:24:21 UTC 2026
+Last Updated: Sat Sep  5 14:18:37 UTC 2026
