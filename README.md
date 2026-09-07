@@ -77,6 +77,7 @@
 - ✅ 4107-find-missing-elements
 - ✅ 424-longest-repeating-character-replacement
 - ✅ 445-add-two-numbers-ii
+- ✅ 448-find-all-numbers-disappeared-in-an-array
 - ✅ 50-powx-n
 - ✅ 528-swapping-nodes-in-a-linked-list
 - ✅ 54-spiral-matrix
@@ -100,6 +101,6 @@
 
 ---
 
-**Total Problems Solved:** 95
+**Total Problems Solved:** 96
 
-Last Updated: Sat Sep  5 14:18:37 UTC 2026
+Last Updated: Mon Sep  7 05:58:04 UTC 2026
