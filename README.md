@@ -77,6 +77,7 @@
 - ✅ 41-first-missing-positive
 - ✅ 4107-find-missing-elements
 - ✅ 424-longest-repeating-character-replacement
+- ✅ 443-string-compression
 - ✅ 445-add-two-numbers-ii
 - ✅ 448-find-all-numbers-disappeared-in-an-array
 - ✅ 50-powx-n
@@ -102,6 +103,6 @@
 
 ---
 
-**Total Problems Solved:** 97
+**Total Problems Solved:** 98
 
-Last Updated: Mon Sep  7 06:56:04 UTC 2026
+Last Updated: Tue Sep  8 10:00:23 UTC 2026
