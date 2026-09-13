@@ -33,6 +33,7 @@
 - ✅ 19-remove-nth-node-from-end-of-list
 - ✅ 1966-frequency-of-the-most-frequent-element
 - ✅ 2-add-two-numbers
+- ✅ 20-valid-parentheses
 - ✅ 202-happy-number
 - ✅ 203-remove-linked-list-elements
 - ✅ 2048-build-array-from-permutation
@@ -103,6 +104,6 @@
 
 ---
 
-**Total Problems Solved:** 98
+**Total Problems Solved:** 99
 
-Last Updated: Wed Sep  9 23:51:39 UTC 2026
+Last Updated: Sun Sep 13 05:16:52 UTC 2026
