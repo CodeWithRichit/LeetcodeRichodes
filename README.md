@@ -6,6 +6,7 @@
 - ✅ 1013-fibonacci-number
 - ✅ 1019-squares-of-a-sorted-array
 - ✅ 11-container-with-most-water
+- ✅ 1128-remove-all-adjacent-duplicates-in-string
 - ✅ 121-best-time-to-buy-and-sell-stock
 - ✅ 125-valid-palindrome
 - ✅ 136-single-number
@@ -104,6 +105,6 @@
 
 ---
 
-**Total Problems Solved:** 99
+**Total Problems Solved:** 100
 
-Last Updated: Sun Sep 13 05:16:52 UTC 2026
+Last Updated: Sun Sep 13 05:41:20 UTC 2026
