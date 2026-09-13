@@ -57,6 +57,7 @@
 - ✅ 242-valid-anagram
 - ✅ 2427-first-letter-to-appear-twice
 - ✅ 2552-maximum-sum-of-distinct-subarrays-with-length-k
+- ✅ 2573-remove-nodes-from-linked-list
 - ✅ 26-remove-duplicates-from-sorted-array
 - ✅ 263-ugly-number
 - ✅ 268-missing-number
@@ -106,6 +107,6 @@
 
 ---
 
-**Total Problems Solved:** 101
+**Total Problems Solved:** 102
 
-Last Updated: Sun Sep 13 06:11:49 UTC 2026
+Last Updated: Sun Sep 13 10:10:19 UTC 2026
