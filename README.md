@@ -83,6 +83,7 @@
 - ✅ 443-string-compression
 - ✅ 445-add-two-numbers-ii
 - ✅ 448-find-all-numbers-disappeared-in-an-array
+- ✅ 496-next-greater-element-i
 - ✅ 50-powx-n
 - ✅ 528-swapping-nodes-in-a-linked-list
 - ✅ 54-spiral-matrix
@@ -107,6 +108,6 @@
 
 ---
 
-**Total Problems Solved:** 102
+**Total Problems Solved:** 103
 
-Last Updated: Sun Sep 13 10:13:22 UTC 2026
+Last Updated: Sun Sep 13 23:49:57 UTC 2026
