@@ -85,6 +85,7 @@
 - ✅ 448-find-all-numbers-disappeared-in-an-array
 - ✅ 496-next-greater-element-i
 - ✅ 50-powx-n
+- ✅ 503-next-greater-element-ii
 - ✅ 528-swapping-nodes-in-a-linked-list
 - ✅ 54-spiral-matrix
 - ✅ 58-length-of-last-word
@@ -108,6 +109,6 @@
 
 ---
 
-**Total Problems Solved:** 103
+**Total Problems Solved:** 104
 
-Last Updated: Sun Sep 13 23:49:57 UTC 2026
+Last Updated: Mon Sep 14 00:17:22 UTC 2026
