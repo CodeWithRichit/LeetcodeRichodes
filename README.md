@@ -9,6 +9,7 @@
 - ✅ 1128-remove-all-adjacent-duplicates-in-string
 - ✅ 121-best-time-to-buy-and-sell-stock
 - ✅ 125-valid-palindrome
+- ✅ 1305-number-of-visible-people-in-a-queue
 - ✅ 136-single-number
 - ✅ 137-single-number-ii
 - ✅ 14-longest-common-prefix
@@ -109,6 +110,6 @@
 
 ---
 
-**Total Problems Solved:** 104
+**Total Problems Solved:** 105
 
-Last Updated: Mon Sep 14 00:17:22 UTC 2026
+Last Updated: Wed Sep 16 04:51:47 UTC 2026
