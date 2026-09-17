@@ -75,6 +75,7 @@
 - ✅ 345-reverse-vowels-of-a-string
 - ✅ 35-search-insert-position
 - ✅ 3626-smallest-divisible-digit-product-i
+- ✅ 383-ransom-note
 - ✅ 387-first-unique-character-in-a-string
 - ✅ 3995-gcd-of-odd-and-even-sums
 - ✅ 4-median-of-two-sorted-arrays
@@ -111,6 +112,6 @@
 
 ---
 
-**Total Problems Solved:** 106
+**Total Problems Solved:** 107
 
-Last Updated: Thu Sep 17 00:08:07 UTC 2026
+Last Updated: Thu Sep 17 04:17:58 UTC 2026
