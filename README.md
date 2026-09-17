@@ -18,6 +18,7 @@
 - ✅ 1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold
 - ✅ 15-3sum
 - ✅ 1528-kids-with-the-greatest-number-of-candies
+- ✅ 155-min-stack
 - ✅ 1574-maximum-product-of-two-elements-in-an-array
 - ✅ 1580-shuffle-the-array
 - ✅ 16-3sum-closest
@@ -110,6 +111,6 @@
 
 ---
 
-**Total Problems Solved:** 105
+**Total Problems Solved:** 106
 
-Last Updated: Wed Sep 16 04:51:47 UTC 2026
+Last Updated: Thu Sep 17 00:08:07 UTC 2026
