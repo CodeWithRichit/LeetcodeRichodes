@@ -106,6 +106,7 @@
 - ✅ 82-remove-duplicates-from-sorted-list-ii
 - ✅ 83-remove-duplicates-from-sorted-list
 - ✅ 86-partition-list
+- ✅ 874-backspace-string-compare
 - ✅ 88-merge-sorted-array
 - ✅ 898-transpose-matrix
 - ✅ 908-middle-of-the-linked-list
@@ -114,6 +115,6 @@
 
 ---
 
-**Total Problems Solved:** 109
+**Total Problems Solved:** 110
 
-Last Updated: Fri Sep 18 05:17:45 UTC 2026
+Last Updated: Fri Sep 18 07:08:39 UTC 2026
