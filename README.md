@@ -20,6 +20,7 @@
 - ✅ 151-reverse-words-in-a-string
 - ✅ 1528-kids-with-the-greatest-number-of-candies
 - ✅ 155-min-stack
+- ✅ 1570-final-prices-with-a-special-discount-in-a-shop
 - ✅ 1574-maximum-product-of-two-elements-in-an-array
 - ✅ 1580-shuffle-the-array
 - ✅ 16-3sum-closest
@@ -116,6 +117,6 @@
 
 ---
 
-**Total Problems Solved:** 111
+**Total Problems Solved:** 112
 
-Last Updated: Sat Sep 19 07:39:34 UTC 2026
+Last Updated: Sat Sep 19 07:58:11 UTC 2026
