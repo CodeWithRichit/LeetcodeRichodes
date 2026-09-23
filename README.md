@@ -98,6 +98,7 @@
 - ✅ 643-maximum-average-subarray-i
 - ✅ 66-plus-one
 - ✅ 682-baseball-game
+- ✅ 71-simplify-path
 - ✅ 713-subarray-product-less-than-k
 - ✅ 724-find-pivot-index
 - ✅ 739-daily-temperatures
@@ -117,6 +118,6 @@
 
 ---
 
-**Total Problems Solved:** 112
+**Total Problems Solved:** 113
 
-Last Updated: Sat Sep 19 07:58:11 UTC 2026
+Last Updated: Wed Sep 23 00:29:04 UTC 2026
