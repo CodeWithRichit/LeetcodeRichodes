@@ -7,6 +7,7 @@
 - ✅ 1019-squares-of-a-sorted-array
 - ✅ 11-container-with-most-water
 - ✅ 1128-remove-all-adjacent-duplicates-in-string
+- ✅ 1159-smallest-subsequence-of-distinct-characters
 - ✅ 121-best-time-to-buy-and-sell-stock
 - ✅ 125-valid-palindrome
 - ✅ 1305-number-of-visible-people-in-a-queue
@@ -120,6 +121,6 @@
 
 ---
 
-**Total Problems Solved:** 115
+**Total Problems Solved:** 116
 
-Last Updated: Wed Sep 30 11:02:15 UTC 2026
+Last Updated: Wed Sep 30 11:21:29 UTC 2026
