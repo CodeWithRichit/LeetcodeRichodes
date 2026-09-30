@@ -84,6 +84,7 @@
 - ✅ 394-decode-string
 - ✅ 3995-gcd-of-odd-and-even-sums
 - ✅ 4-median-of-two-sorted-arrays
+- ✅ 402-remove-k-digits
 - ✅ 4080-smallest-missing-multiple-of-k
 - ✅ 41-first-missing-positive
 - ✅ 4107-find-missing-elements
@@ -121,6 +122,6 @@
 
 ---
 
-**Total Problems Solved:** 116
+**Total Problems Solved:** 117
 
-Last Updated: Wed Sep 30 11:21:29 UTC 2026
+Last Updated: Wed Sep 30 14:11:03 UTC 2026
