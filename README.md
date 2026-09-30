@@ -79,6 +79,7 @@
 - ✅ 3626-smallest-divisible-digit-product-i
 - ✅ 383-ransom-note
 - ✅ 387-first-unique-character-in-a-string
+- ✅ 394-decode-string
 - ✅ 3995-gcd-of-odd-and-even-sums
 - ✅ 4-median-of-two-sorted-arrays
 - ✅ 4080-smallest-missing-multiple-of-k
@@ -118,6 +119,6 @@
 
 ---
 
-**Total Problems Solved:** 113
+**Total Problems Solved:** 114
 
-Last Updated: Wed Sep 23 00:29:04 UTC 2026
+Last Updated: Wed Sep 30 07:03:24 UTC 2026
