@@ -69,6 +69,7 @@
 - ✅ 28-find-the-index-of-the-first-occurrence-in-a-string
 - ✅ 283-move-zeroes
 - ✅ 3-longest-substring-without-repeating-characters
+- ✅ 316-remove-duplicate-letters
 - ✅ 3242-count-elements-with-maximum-frequency
 - ✅ 326-power-of-three
 - ✅ 328-odd-even-linked-list
@@ -119,6 +120,6 @@
 
 ---
 
-**Total Problems Solved:** 114
+**Total Problems Solved:** 115
 
-Last Updated: Wed Sep 30 07:03:24 UTC 2026
+Last Updated: Wed Sep 30 11:02:15 UTC 2026
