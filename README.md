@@ -112,6 +112,7 @@
 - ✅ 80-remove-duplicates-from-sorted-array-ii
 - ✅ 82-remove-duplicates-from-sorted-list-ii
 - ✅ 83-remove-duplicates-from-sorted-list
+- ✅ 84-largest-rectangle-in-histogram
 - ✅ 86-partition-list
 - ✅ 874-backspace-string-compare
 - ✅ 88-merge-sorted-array
@@ -122,6 +123,6 @@
 
 ---
 
-**Total Problems Solved:** 117
+**Total Problems Solved:** 118
 
-Last Updated: Wed Sep 30 14:11:03 UTC 2026
+Last Updated: Wed Sep 30 16:31:12 UTC 2026
