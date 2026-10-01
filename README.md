@@ -88,6 +88,7 @@
 - ✅ 4080-smallest-missing-multiple-of-k
 - ✅ 41-first-missing-positive
 - ✅ 4107-find-missing-elements
+- ✅ 42-trapping-rain-water
 - ✅ 424-longest-repeating-character-replacement
 - ✅ 443-string-compression
 - ✅ 445-add-two-numbers-ii
@@ -123,6 +124,6 @@
 
 ---
 
-**Total Problems Solved:** 118
+**Total Problems Solved:** 119
 
-Last Updated: Thu Oct  1 05:51:57 UTC 2026
+Last Updated: Thu Oct  1 10:14:39 UTC 2026
