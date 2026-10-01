@@ -121,9 +121,10 @@
 - ✅ 908-middle-of-the-linked-list
 - ✅ 92-reverse-linked-list-ii
 - ✅ 940-fruit-into-baskets
+- ✅ 983-validate-stack-sequences
 
 ---
 
-**Total Problems Solved:** 119
+**Total Problems Solved:** 120
 
-Last Updated: Thu Oct  1 10:14:39 UTC 2026
+Last Updated: Thu Oct  1 11:25:17 UTC 2026
