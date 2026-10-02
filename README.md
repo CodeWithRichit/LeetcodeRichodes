@@ -37,6 +37,7 @@
 - ✅ 187-repeated-dna-sequences
 - ✅ 189-rotate-array
 - ✅ 19-remove-nth-node-from-end-of-list
+- ✅ 1951-find-the-winner-of-the-circular-game
 - ✅ 1966-frequency-of-the-most-frequent-element
 - ✅ 2-add-two-numbers
 - ✅ 20-valid-parentheses
@@ -126,6 +127,6 @@
 
 ---
 
-**Total Problems Solved:** 121
+**Total Problems Solved:** 122
 
-Last Updated: Thu Oct  1 12:48:57 UTC 2026
+Last Updated: Fri Oct  2 09:38:26 UTC 2026
