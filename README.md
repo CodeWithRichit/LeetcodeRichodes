@@ -55,6 +55,7 @@
 - ✅ 219-contains-duplicate-ii
 - ✅ 2216-delete-the-middle-node-of-a-linked-list
 - ✅ 2236-maximum-twin-sum-of-a-linked-list
+- ✅ 225-implement-stack-using-queues
 - ✅ 2299-merge-nodes-in-between-zeros
 - ✅ 231-power-of-two
 - ✅ 234-palindrome-linked-list
@@ -127,6 +128,6 @@
 
 ---
 
-**Total Problems Solved:** 122
+**Total Problems Solved:** 123
 
-Last Updated: Fri Oct  2 09:38:26 UTC 2026
+Last Updated: Sat Oct  3 08:03:39 UTC 2026
