@@ -120,6 +120,7 @@
 - ✅ 83-remove-duplicates-from-sorted-list
 - ✅ 84-largest-rectangle-in-histogram
 - ✅ 86-partition-list
+- ✅ 860-design-circular-queue
 - ✅ 874-backspace-string-compare
 - ✅ 88-merge-sorted-array
 - ✅ 898-transpose-matrix
@@ -130,6 +131,6 @@
 
 ---
 
-**Total Problems Solved:** 125
+**Total Problems Solved:** 126
 
-Last Updated: Sun Oct  4 03:48:12 UTC 2026
+Last Updated: Sun Oct  4 04:34:41 UTC 2026
