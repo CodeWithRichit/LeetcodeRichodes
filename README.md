@@ -34,6 +34,7 @@
 - ✅ 171-excel-sheet-column-number
 - ✅ 1765-merge-in-between-linked-lists
 - ✅ 18-4sum
+- ✅ 1802-number-of-students-unable-to-eat-lunch
 - ✅ 187-repeated-dna-sequences
 - ✅ 189-rotate-array
 - ✅ 19-remove-nth-node-from-end-of-list
@@ -129,6 +130,6 @@
 
 ---
 
-**Total Problems Solved:** 124
+**Total Problems Solved:** 125
 
-Last Updated: Sun Oct  4 02:47:32 UTC 2026
+Last Updated: Sun Oct  4 03:48:12 UTC 2026
