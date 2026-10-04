@@ -53,6 +53,7 @@
 - ✅ 217-contains-duplicate
 - ✅ 2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points
 - ✅ 219-contains-duplicate-ii
+- ✅ 2195-time-needed-to-buy-tickets
 - ✅ 2216-delete-the-middle-node-of-a-linked-list
 - ✅ 2236-maximum-twin-sum-of-a-linked-list
 - ✅ 225-implement-stack-using-queues
@@ -128,6 +129,6 @@
 
 ---
 
-**Total Problems Solved:** 123
+**Total Problems Solved:** 124
 
-Last Updated: Sat Oct  3 08:03:39 UTC 2026
+Last Updated: Sun Oct  4 02:47:32 UTC 2026
