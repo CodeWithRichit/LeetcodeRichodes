@@ -6,25 +6,22 @@ class MyCircularQueue {
 
     public MyCircularQueue(int k) {
         arr=new int[k];
+        r=-1;
+        f=0;
     }
     
     public boolean enQueue(int value) {
         if(size==arr.length)return false;
-        else{
-            arr[r++]=value;
-            size++;
-        }
-        if(r==arr.length)r=0;
+        r=(r+1)%arr.length;
+        arr[r]=value;
+        size++;
         return true;
     }
     
     public boolean deQueue() {
         if(size==0)return false;
-        else{
-            f++;
-            size--;
-        }
-        if(f==arr.length)f=0;
+        f=(f+1)%arr.length;
+        size--;
         return true;
     }
     
@@ -35,7 +32,7 @@ class MyCircularQueue {
     
     public int Rear() {
         if(size==0)return -1;
-        return arr[(r-1+arr.length)%(arr.length)];
+        return arr[r];
     }
     
     public boolean isEmpty() {
@@ -46,6 +43,56 @@ class MyCircularQueue {
         return (size==arr.length);
     }
 }
+
+
+// class MyCircularQueue {
+//     int size;
+//     int f;
+//     int r;
+//     int[] arr;
+
+//     public MyCircularQueue(int k) {
+//         arr=new int[k];
+//     }
+    
+//     public boolean enQueue(int value) {
+//         if(size==arr.length)return false;
+//         else{
+//             arr[r++]=value;
+//             size++;
+//         }
+//         if(r==arr.length)r=0;
+//         return true;
+//     }
+    
+//     public boolean deQueue() {
+//         if(size==0)return false;
+//         else{
+//             f++;
+//             size--;
+//         }
+//         if(f==arr.length)f=0;
+//         return true;
+//     }
+    
+//     public int Front() {
+//         if(size==0)return -1;
+//         return arr[f];
+//     }
+    
+//     public int Rear() {
+//         if(size==0)return -1;
+//         return arr[(r-1+arr.length)%(arr.length)];
+//     }
+    
+//     public boolean isEmpty() {
+//         return (size==0);
+//     }
+    
+//     public boolean isFull() {
+//         return (size==arr.length);
+//     }
+// }
 
 /**
  * Your MyCircularQueue object will be instantiated and called as such:
