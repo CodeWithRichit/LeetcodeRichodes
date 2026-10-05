@@ -28,6 +28,7 @@
 - ✅ 160-intersection-of-two-linked-lists
 - ✅ 1603-running-sum-of-1d-array
 - ✅ 162-find-peak-element
+- ✅ 1666-make-the-string-great
 - ✅ 167-two-sum-ii-input-array-is-sorted
 - ✅ 1677-matrix-diagonal-sum
 - ✅ 169-majority-element
@@ -131,6 +132,6 @@
 
 ---
 
-**Total Problems Solved:** 126
+**Total Problems Solved:** 127
 
-Last Updated: Sun Oct  4 04:40:05 UTC 2026
+Last Updated: Mon Oct  5 01:08:06 UTC 2026
