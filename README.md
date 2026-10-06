@@ -129,10 +129,11 @@
 - ✅ 908-middle-of-the-linked-list
 - ✅ 92-reverse-linked-list-ii
 - ✅ 940-fruit-into-baskets
+- ✅ 957-minimum-add-to-make-parentheses-valid
 - ✅ 983-validate-stack-sequences
 
 ---
 
-**Total Problems Solved:** 128
+**Total Problems Solved:** 129
 
-Last Updated: Mon Oct  5 06:08:39 UTC 2026
+Last Updated: Tue Oct  6 05:14:24 UTC 2026
