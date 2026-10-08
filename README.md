@@ -5,6 +5,7 @@
 - ✅ 1-two-sum
 - ✅ 1013-fibonacci-number
 - ✅ 1019-squares-of-a-sorted-array
+- ✅ 1078-remove-outermost-parentheses
 - ✅ 11-container-with-most-water
 - ✅ 1128-remove-all-adjacent-duplicates-in-string
 - ✅ 1159-smallest-subsequence-of-distinct-characters
@@ -135,6 +136,6 @@
 
 ---
 
-**Total Problems Solved:** 130
+**Total Problems Solved:** 131
 
-Last Updated: Wed Oct  7 15:01:08 UTC 2026
+Last Updated: Thu Oct  8 05:57:36 UTC 2026
