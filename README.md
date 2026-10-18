@@ -62,6 +62,7 @@
 - ✅ 2216-delete-the-middle-node-of-a-linked-list
 - ✅ 2236-maximum-twin-sum-of-a-linked-list
 - ✅ 225-implement-stack-using-queues
+- ✅ 226-invert-binary-tree
 - ✅ 2299-merge-nodes-in-between-zeros
 - ✅ 231-power-of-two
 - ✅ 234-palindrome-linked-list
@@ -139,6 +140,6 @@
 
 ---
 
-**Total Problems Solved:** 134
+**Total Problems Solved:** 135
 
-Last Updated: Sun Oct 18 04:13:55 UTC 2026
+Last Updated: Sun Oct 18 05:14:56 UTC 2026
