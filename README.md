@@ -3,6 +3,7 @@
 ## Solved Problems
 
 - ✅ 1-two-sum
+- ✅ 100-same-tree
 - ✅ 1013-fibonacci-number
 - ✅ 1019-squares-of-a-sorted-array
 - ✅ 1078-remove-outermost-parentheses
@@ -140,6 +141,6 @@
 
 ---
 
-**Total Problems Solved:** 135
+**Total Problems Solved:** 136
 
-Last Updated: Sun Oct 18 05:14:56 UTC 2026
+Last Updated: Sun Oct 18 06:58:43 UTC 2026
