@@ -17,6 +17,7 @@
 - ✅ 14-longest-common-prefix
 - ✅ 141-linked-list-cycle
 - ✅ 143-reorder-list
+- ✅ 144-binary-tree-preorder-traversal
 - ✅ 1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold
 - ✅ 15-3sum
 - ✅ 151-reverse-words-in-a-string
@@ -136,6 +137,6 @@
 
 ---
 
-**Total Problems Solved:** 131
+**Total Problems Solved:** 132
 
-Last Updated: Thu Oct  8 05:59:31 UTC 2026
+Last Updated: Sun Oct 18 04:05:25 UTC 2026
