@@ -19,6 +19,7 @@
 - ✅ 143-reorder-list
 - ✅ 144-binary-tree-preorder-traversal
 - ✅ 1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold
+- ✅ 145-binary-tree-postorder-traversal
 - ✅ 15-3sum
 - ✅ 151-reverse-words-in-a-string
 - ✅ 1528-kids-with-the-greatest-number-of-candies
@@ -137,6 +138,6 @@
 
 ---
 
-**Total Problems Solved:** 132
+**Total Problems Solved:** 133
 
-Last Updated: Sun Oct 18 04:05:25 UTC 2026
+Last Updated: Sun Oct 18 04:10:10 UTC 2026
